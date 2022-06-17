@@ -22,3 +22,4 @@ while count > 0:
         break
 else:
     print(f'Вы проиграли. Загаданное число: {random_number}')
+
